@@ -13,11 +13,7 @@
 
 - 📫 How to reach me **febrianavien555@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-### Latest Medium activity of [@febro](https://github.com/AganFebro)
+### Baca Blog Medium Saya! [@AganFebro](https://github.com/AganFebro)
 <table>
   <tr><th>Title</th><th>Link</th></tr>
   <!-- MEDIUM:START --><tr><td>Upsorber — Unique Tezos Token</td><td>$link</td></tr><tr><td>NEX Exchange — Finally a Good Multichain Decentralized Perp Trading</td><td>$link</td></tr><tr><td>Dradex Devnet Phase — What’s good and bad?</td><td>$link</td></tr><tr><td>Akash Testnet Week 2 — Ethereum Node Deployment using Akashlytic</td><td>$link</td></tr><!-- MEDIUM:END -->
