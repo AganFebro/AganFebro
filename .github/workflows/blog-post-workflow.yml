@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "MEDIUM"
           feed_list: "https://febro.medium.com/feed"
-          template: "<tr><td>$title</td><td>$link</td></tr>"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
