@@ -16,7 +16,7 @@
 ### Baca Blog Medium Saya! [@AganFebro](https://github.com/AganFebro)
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- MEDIUM:START --><!-- MEDIUM:END -->
+  <!-- MEDIUM:START --><tr><td>Upsorber — Unique Tezos Token</td><td>https://febro.medium.com/upsorber-unique-tezos-token-cdd13182e052?source=rss-f222ed7d16a0------2</td></tr><tr><td>NEX Exchange — Finally a Good Multichain Decentralized Perp Trading</td><td>https://febro.medium.com/nex-exchange-finally-a-good-multichain-decentralized-perp-trading-50a1a73ad526?source=rss-f222ed7d16a0------2</td></tr><tr><td>Dradex Devnet Phase — What’s good and bad?</td><td>https://febro.medium.com/dradex-devnet-phase-whats-good-and-bad-d97b7edb1b17?source=rss-f222ed7d16a0------2</td></tr><tr><td>Akash Testnet Week 2 — Ethereum Node Deployment using Akashlytic</td><td>https://febro.medium.com/akash-testnet-week-2-ethereum-node-deployment-using-akashlytic-fc151de95c9d?source=rss-f222ed7d16a0------2</td></tr><!-- MEDIUM:END -->
 </table>
 
 <h3 align="left">Connect with me:</h3>
