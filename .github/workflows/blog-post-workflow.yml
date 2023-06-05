@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "MEDIUM"
-          feed_list: "https://medium.com/feed/@febro"
+          feed_list: "https://febro.medium.com/feed"
           template: "<tr><td>$title</td><td>$url</td></tr>"
