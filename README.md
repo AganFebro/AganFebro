@@ -17,6 +17,12 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### Latest Medium activity of [@febro](https://github.com/AganFebro)
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- MEDIUM:START --><!-- MEDIUM:END -->
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/febri_stars7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="febri_stars7" height="30" width="40" /></a>
