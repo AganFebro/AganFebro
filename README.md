@@ -1,33 +1,82 @@
-<h1 align="center">Hi 👋, I'm Febrian</h1>
-<h3 align="center">I'm just nobody.</h3>
+<div>
+	  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=./febrian&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=75&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aganfebro&label=Profile%20views&color=0e75b6&style=flat" alt="aganfebro" /> </p>
+<br/>
 
-- 🔭 I’m currently working on [Kwitansi Digital](https://github.com/AganFebro/Kwitansi-Digital)
-
-- 🌱 I’m currently learning **Java, Linux, Android and Blockchain.**
-
-- 👨‍💻 All of my projects are available at [pip.me/febro](pip.me/febro)
-
-- 📝 I regularly write articles on [https://medium.com/@febro](https://medium.com/@febro)
-
-- 📫 How to reach me **febrianavien555@gmail.com**
-
-### Baca Blog Medium Saya! [@AganFebro](https://github.com/AganFebro)
-<table>
-  <tr><th>Title</th><th>Link</th></tr>
-  <!-- MEDIUM:START --><tr><td>Upsorber — Unique Tezos Token</td><td>https://febro.medium.com/upsorber-unique-tezos-token-cdd13182e052?source=rss-f222ed7d16a0------2</td></tr><tr><td>NEX Exchange — Finally a Good Multichain Decentralized Perp Trading</td><td>https://febro.medium.com/nex-exchange-finally-a-good-multichain-decentralized-perp-trading-50a1a73ad526?source=rss-f222ed7d16a0------2</td></tr><tr><td>Dradex Devnet Phase — What’s good and bad?</td><td>https://febro.medium.com/dradex-devnet-phase-whats-good-and-bad-d97b7edb1b17?source=rss-f222ed7d16a0------2</td></tr><tr><td>Akash Testnet Week 2 — Ethereum Node Deployment using Akashlytic</td><td>https://febro.medium.com/akash-testnet-week-2-ethereum-node-deployment-using-akashlytic-fc151de95c9d?source=rss-f222ed7d16a0------2</td></tr><!-- MEDIUM:END -->
-</table>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/febroriginal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="febroriginal" height="30" width="40" /></a>
-<a href="https://fb.com/ini.febri.ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ini.febri.ya" height="30" width="40" /></a>
-<a href="https://instagram.com/febro.eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="febro.eth" height="30" width="40" /></a>
-<a href="https://medium.com/@febro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@febro" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/febroriginal" target="blank"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="twitter" height="30" width="40" /></a>
+  <a href="https://medium.com/@febro" target="blank"><img src="https://cdn.simpleicons.org/medium/FFFFFF" alt="medium" height="30" width="40" /></a>
+  <a href="https://discord.com/users/335738604901105667" target="blank"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="discord" height="30" width="40" /></a>
+  <a href="https://t.me/febri555" target="blank"><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="telegram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@febroeth" target="blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="youtube" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+Hey guys, my name is Febrian. Honestly I don't know what should I put in here, but you can see my previous project below.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aganfebro&show_icons=true&locale=en&layout=compact" alt="aganfebro" /></p>
+### Hackathon Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏆 <a href="https://github.com/AganFebro/neoland">neoland</a></h4>
+      <p><em>NFT marketplace built from scratch on CARV SVM Network</em></p>
+      <p><sub><strong>Wins:</strong> 3rd Team's Choice • 1st Community Favorite</sub></p>
+      <p>
+        <img src="https://img.shields.io/badge/Hackathon-Project-6f42c1?style=for-the-badge" alt="hackathon project" />
+        <img src="https://img.shields.io/badge/Award-3rd%20Team's%20Choice-FFD700?style=for-the-badge" alt="award" />
+        <img src="https://img.shields.io/badge/Award-1st%20Community%20Favorite-00C853?style=for-the-badge" alt="award" />
+      </p>
+      <p><a href="https://x.com/carv_official/status/1991718215387607093" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Proof-X%20post-111111?style=for-the-badge&logo=x&logoColor=white" alt="proof (x post)" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/AganFebro/paylazor">paylazor</a></h4>
+      <p><em>A plug-n-play UI widget built on top of LazorKit SDK</em></p>
+      <p><sub><strong>Status:</strong> TBA</sub></p>
+      <p>
+        <img src="https://img.shields.io/badge/Hackathon-Project-6f42c1?style=for-the-badge" alt="hackathon project" />
+        <img src="https://img.shields.io/badge/Status-TBA-64748b?style=for-the-badge" alt="status tba" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+### Personal Projects
+
+<table width="100%">
+  <tr>
+    <td colspan="2"><img src="assets/spacer.svg" width="1200" height="0.2" alt="" /></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⛏️ <a href="https://github.com/AganFebro/forge-ocr">forge-ocr</a></h4>
+      <p>OCR + auto-mining helper for Roblox "The Forge".</p>
+      <p><img src="https://img.shields.io/badge/Category-Automation-0ea5e9?style=for-the-badge" alt="category" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧾 <a href="https://github.com/AganFebro/Kwitansi-Digital">Kwitansi-Digital</a></h4>
+      <p>Android app to print receipts (built with friends).</p>
+      <p><img src="https://img.shields.io/badge/Category-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="category" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://github.com/AganFebro/CARV-Survey">CARV-Survey</a></h4>
+      <p>CARV community survey web app.</p>
+      <p><img src="https://img.shields.io/badge/Category-Web-22c55e?style=for-the-badge" alt="category" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏅 <a href="https://github.com/AganFebro/CARV-Gaming-Leaderboard">CARV-Gaming-Leaderboard</a></h4>
+      <p>CARV Indonesia gaming tournament leaderboard.</p>
+      <p><img src="https://img.shields.io/badge/Category-Web-22c55e?style=for-the-badge" alt="category" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📝 <a href="https://github.com/AganFebro/flask-web">flask-web</a></h4>
+      <p>Simple notes + money management website.</p>
+      <p><img src="https://img.shields.io/badge/Category-Web-22c55e?style=for-the-badge" alt="category" /></p>
+    </td>
+    <td width="50%" valign="top">&nbsp;</td>
+  </tr>
+</table>
