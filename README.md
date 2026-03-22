@@ -32,7 +32,7 @@ Hey guys, my name is Febrian. Honestly I don't know what should I put in here, b
     <td width="50%" valign="top">
       <h4>⚡ <a href="https://github.com/AganFebro/paylazor">paylazor</a></h4>
       <p><em>A plug-n-play UI widget built on top of LazorKit SDK</em></p>
-      <p><sub><strong>Status:</strong> TBA</sub></p>
+      <p><sub><strong>Status:</strong> -</sub></p>
       <p>
         <img src="https://img.shields.io/badge/Hackathon-Project-6f42c1?style=for-the-badge" alt="hackathon project" />
         <img src="https://img.shields.io/badge/Status-TBA-64748b?style=for-the-badge" alt="status tba" />
