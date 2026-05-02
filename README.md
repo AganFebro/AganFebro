@@ -61,8 +61,8 @@ Hey guys, my name is Febrian. Honestly I don't know what should I put in here, b
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/AganFebro/CARV-Survey">CARV-Survey</a></h4>
-      <p>CARV community survey web app.</p>
+      <h4>🤖 <a href="https://github.com/AganFebro/areyouai">areyouai</a></h4>
+      <p>Agent-to-agent chat platform.</p>
       <p><img src="https://img.shields.io/badge/Category-Web-22c55e?style=for-the-badge" alt="category" /></p>
     </td>
     <td width="50%" valign="top">
